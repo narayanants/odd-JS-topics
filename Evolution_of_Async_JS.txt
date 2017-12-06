@@ -1,0 +1,16 @@
+Evolution of Asynchronous JS:
+=============================
+
+    * Callbacks
+    * Promises
+    * Generators
+    * Async
+
+
+Callbacks:
+==========
+
+        * In JS, functions are are first class Objects. Of type Object
+        * They can used in a first-class manner just like other  Object.
+
+    
